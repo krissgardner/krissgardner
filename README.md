@@ -6,39 +6,40 @@
 📞 **Phone**: +40 770 265 438  
 ✉ **Email**: [contact@krissgardner.com](mailto:contact@krissgardner.com)
 
----
-
 I design, build, and deploy websites and web applications that *always stand out*.
 
 ## **Technical Skills**
 
 ### **Frontend Development**
-- **Frameworks & Libraries:**  
-  - React, React Native  
-  - Next.js (App Router & Pages Router)
-  - tRPC  
-  - Redux Saga  
-  - React Query
+- React, React Native  
+- Next.js (App Router & Pages Router)
+- tRPC  
+- Redux Saga, React Query
 
+### **Backend Development**
+- Node.js, Express.js
+- tRPC
+- Django
+
+### **Cloud & Services**
+- Amazon Web Services (AWS) & GovCloud
+- Google Cloud Platform, Firebase
+- Digital Ocean  
+- OpenAI, ChatGPT
+- Auth0  
+- Vercel
+- Metabase
+
+### Additional Skills
 - **Languages & Tools:**  
   - TypeScript, JavaScript
+  - Python
   - Styled Components, Tailwind CSS, CSS, Sass
   - Webpack, Babel  
   - WebSockets, Socket.io
-  - AdobeXD, Figma  
-
-### **Backend Development**
-- **Frameworks & Libraries:**  
-  - Node.js  
-  - Django  
-  - tRPC
-  - Express.js  
-
-- **Languages & Tools:**  
-  - TypeScript, JavaScript  
-  - Python  
-  - Puppeteer  
-
+  - AdobeXD, Figma
+  - Puppeteer
+ 
 - **Infrastructure & Databases:**  
   - Celery, Redis
   - Prisma, Postgres, SQL, MongoDB
@@ -47,37 +48,12 @@ I design, build, and deploy websites and web applications that *always stand out
   - Refinitiv, Eikon, DataScope API
   - Docker Swarm, Nginx
 
-### **Cloud & Services**
-- **Cloud Providers:**  
-  - Amazon Web Services (AWS)  
-  - GovCloud  
-  - Google Cloud  
-  - Digital Ocean  
-  - Firebase  
-
-- **Platforms & Services:**  
-  - OpenAI, ChatGPT
-  - Auth0  
-  - Vercel  
-  - Metabase  
-
 - **Automation & CI/CD:**  
-  - Terraform  
-  - GitHub Actions  
+  - Terraform
   - CircleCI  
+  - GitHub Actions  
   - Bitbucket Pipelines  
-
-### **Development Practices**
-- **Version Control:**  
-  - Git, GitLab  
-  - Bitbucket  
-
-- **Security:**  
-  - OAuth2  
-  - JWT  
 
 🌏 **Interested in remote work only**  
 📞 **Phone**: +40 770 265 438  
 ✉️ **Email**: [contact@krissgardner.com](mailto:contact@krissgardner.com)
-
----
