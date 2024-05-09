@@ -2,11 +2,11 @@
 
 *Full Stack Software Developer | Freelancer with 4+ years of experience*  
 
-I design, build, and deploy websites and web applications that *always stand out*.
+I design, build, and deploy websites and web applications that *always stand out*.  
 
-🌍 **Location**: Bucharest, Romania | Remote Work
 📞 **Phone**: +40 770 265 438  
 ✉ **Email**: [contact@krissgardner.com](mailto:contact@krissgardner.com)  
+🌍 **Location**: Remote Work | Bucharest, Romania  
 
 ## **Technical Skills**
 
