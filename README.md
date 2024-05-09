@@ -53,7 +53,3 @@ I design, build, and deploy websites and web applications that *always stand out
 - CircleCI  
 - GitHub Actions  
 - Bitbucket Pipelines  
-
-🌏 **Interested in remote work only**  
-📞 **Phone**: +40 770 265 438  
-✉️ **Email**: [contact@krissgardner.com](mailto:contact@krissgardner.com)
