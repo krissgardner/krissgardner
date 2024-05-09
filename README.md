@@ -27,11 +27,11 @@ I design, build, and deploy websites and web applications that always stand out.
 
 ### ✅ Additional Skills
 - __Languages & Tools__  
- - TypeScript, JavaScript, Python
- - OpenAI, ChatGPT, WebSockets, Socket.io, Puppeteer, Jest, Webpack, Babel
- - Styled Components, Tailwind CSS, CSS, Sass AdobeXD, Figma
+  - TypeScript, JavaScript, Python
+  - OpenAI, ChatGPT, WebSockets, Socket.io, Puppeteer, Jest, Webpack, Babel
+  - Styled Components, Tailwind CSS, CSS, Sass AdobeXD, Figma
 - __Infrastructure__  
- - Prisma, Postgres, SQL, MongoDB, Snowflake, Celery, Redis
- - Docker Swarm, Nginx, Refinitiv, Eikon, DataScope API, Estuary Flow, Metabase
+  - Prisma, Postgres, SQL, MongoDB, Snowflake, Celery, Redis
+  - Docker Swarm, Nginx, Refinitiv, Eikon, DataScope API, Estuary Flow, Metabase
 - __Automation & CI/CD__  
- - Terraform, CircleCI, GitHub Actions, Bitbucket Pipelines  
+  - Terraform, CircleCI, GitHub Actions, Bitbucket Pipelines  
