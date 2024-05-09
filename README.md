@@ -31,7 +31,7 @@ I design, build, and deploy websites and web applications that *always stand out
 - Vercel
 
 ### ✅ Additional Skills
-#### Languages & Tools
+__Languages & Tools__  
 - TypeScript, JavaScript
 - Python
 - Styled Components, Tailwind CSS, CSS, Sass
@@ -40,7 +40,7 @@ I design, build, and deploy websites and web applications that *always stand out
 - AdobeXD, Figma
 - Puppeteer
  
-#### Infrastructure & Databases
+__Infrastructure & Databases__  
 - Celery, Redis
 - Prisma, Postgres, SQL, MongoDB
 - Snowflake
@@ -48,7 +48,7 @@ I design, build, and deploy websites and web applications that *always stand out
 - Refinitiv, Eikon, DataScope API
 - Docker Swarm, Nginx
 
-#### Automation & CI/CD
+__Automation & CI/CD__  
 - Terraform
 - CircleCI  
 - GitHub Actions  
