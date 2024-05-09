@@ -10,18 +10,18 @@ I design, build, and deploy websites and web applications that *always stand out
 
 ## **Technical Skills**
 
-### ✅**Frontend Development**
+### ✅ **Frontend Development**
 - React, React Native  
 - Next.js (App Router & Pages Router)
 - tRPC  
 - Redux Saga, React Query
 
-### ✅**Backend Development**
+### ✅ **Backend Development**
 - Node.js, Express.js
 - tRPC
 - Django
 
-### ✅**Cloud & Services**
+### ✅ **Cloud & Services**
 - Amazon Web Services (AWS) & GovCloud
 - Google Cloud Platform, Firebase
 - Digital Ocean  
@@ -30,7 +30,7 @@ I design, build, and deploy websites and web applications that *always stand out
 - Auth0  
 - Vercel
 
-### ✅Additional Skills
+### ✅ Additional Skills
 #### Languages & Tools
 - TypeScript, JavaScript
 - Python
