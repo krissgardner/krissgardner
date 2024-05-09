@@ -23,7 +23,8 @@ I design, build, and deploy websites and web applications that *always stand out
 
 ### ✅ **Cloud & Services**
 - Amazon Web Services (AWS) & GovCloud
-- Google Cloud Platform, Firebase
+- Google Cloud Platform
+- Firebase
 - Digital Ocean  
 - OpenAI, ChatGPT
 - Metabase
@@ -32,24 +33,12 @@ I design, build, and deploy websites and web applications that *always stand out
 
 ### ✅ Additional Skills
 __Languages & Tools__  
-- TypeScript, JavaScript
-- Python
-- Styled Components, Tailwind CSS, CSS, Sass
-- Webpack, Babel  
-- WebSockets, Socket.io
-- AdobeXD, Figma
-- Puppeteer
+- TypeScript, JavaScript, Python
+- WebSockets, Socket.io, Puppeteer, Jest, Webpack, Babel, Styled Components, Tailwind CSS, CSS, Sass AdobeXD, Figma
  
 __Infrastructure & Databases__  
-- Celery, Redis
-- Prisma, Postgres, SQL, MongoDB
-- Snowflake
-- Estuary Flow
-- Refinitiv, Eikon, DataScope API
-- Docker Swarm, Nginx
+- Prisma, Postgres, SQL, MongoDB, Snowflake, Celery, Redis
+- Docker Swarm, Nginx, Refinitiv, Eikon, DataScope API, Estuary Flow
 
 __Automation & CI/CD__  
-- Terraform
-- CircleCI  
-- GitHub Actions  
-- Bitbucket Pipelines  
+- Terraform, CircleCI, GitHub Actions, Bitbucket Pipelines  
