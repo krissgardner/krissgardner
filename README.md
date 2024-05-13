@@ -6,7 +6,7 @@ I help businesses hit their targets with product driven development
 
 📞 **Phone**: +40 770 265 438  
 ✉ **Email**: [contact@krissgardner.com](mailto:contact@krissgardner.com)  
-✉ **LinkedIn**: [linkedin.com/in/kriss-gardner](https://www.linkedin.com/in/kriss-gardner/)  
+🧑‍💻 **LinkedIn**: [linkedin.com/in/kriss-gardner](https://www.linkedin.com/in/kriss-gardner/)  
 🌍 **Location**: Remote Work | Bucharest, Romania  
 
 ## **Technical Skills**
