@@ -1,6 +1,6 @@
 # Kriss Gardner
 
-*Full Stack Software Developer | Freelancer with 4+ years of experience*  
+*Full Stack Software Developer | Freelancer with 5 years of experience*  
 
 I help businesses hit their targets with product driven development
 
